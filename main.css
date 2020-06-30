@@ -1,0 +1,23 @@
+body {
+    font-family: Georgia, serif;
+    width: 800px;
+    margin: auto;
+    margin-top: 60px;
+    background-color: #def6ff; 
+}
+
+p {
+    font-family: Arial, sans-serif;
+}
+
+a {
+    color: grey;
+}
+
+a:hover {
+    color: black;
+}
+
+#pubs {
+    margin-top: 60px;
+}
